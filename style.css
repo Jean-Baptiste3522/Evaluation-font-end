@@ -6,7 +6,26 @@
     margin-top: -6px;
 }
 
-.interview{
-    width: auto;
-    height: 3000px;
+h1 {
+    background-color: greenyellow;
+  }
+
+aside {
+    background-color: brown;
+  }
+
+footer {
+    background-color: yellow;
+  }
+
+.asideRight {
+    background-color:darkorange;
+  }
+
+  .content{
+    background-color: aquamarine;
+  }
+  
+nav {
+  background-color: #74e274;
 }
